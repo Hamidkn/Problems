@@ -1,0 +1,8 @@
+2021-09-28 19:08:06,868 The current folder is E:/Test/API/New folder/1
+2021-09-28 19:08:06,869 SUBFOLDER OF E:/Test/API/New folder/1: __pycache__
+2021-09-28 19:08:06,869 Copying file...
+2021-09-28 19:08:06,869 FROM: E:/Test/API/New folder/1\main.py TO: E:/Test/API/New folder/2
+2021-09-28 19:08:06,869 FROM: E:/Test/API/New folder/1\synchronize.py TO: E:/Test/API/New folder/2
+2021-09-28 19:08:06,870 The current folder is E:/Test/API/New folder/1\__pycache__
+2021-09-28 19:08:06,870 Copying file...
+2021-09-28 19:08:06,870 FROM: E:/Test/API/New folder/1\__pycache__\synchronize.cpython-39.pyc TO: E:/Test/API/New folder/2\__pycache__
