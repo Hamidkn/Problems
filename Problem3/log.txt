@@ -1,0 +1,11 @@
+2021-09-29 11:06:57,904 Starting to connect.
+2021-09-29 11:06:57,918 Waiting for recieving message from the client.
+2021-09-29 11:07:02,223 Starting to connect.
+2021-09-29 11:07:02,223 sending Hello, World!
+2021-09-29 11:07:02,223 sending unique id : 9bfc4e43-2104-11ec-af16-80000b4080ed
+2021-09-29 11:07:02,223 Socket error
+2021-09-29 11:07:02,223 Closing connection to the server
+2021-09-29 11:07:02,223 send b'', and 996b62cc-2104-11ec-b1d0-80000b4080ed bytes back to ('127.0.0.1', 1812)
+2021-09-29 11:07:02,223 Waiting for recieving message from the client.
+2021-09-29 11:09:46,965 Starting to connect.
+2021-09-29 11:09:46,977 Waiting for recieving message from the client.
